@@ -8,5 +8,5 @@ Java Based Search Engine
 * Spell Check - Edit Distance
 * Searching - BoyerMoore
 ## Flow Chart
-![alt text](https://github.com/arunreddy2471/WebSearchEngine/blob/main/Screenshot%202022-07-30%20at%2011.41.46%20PM.png)
+![alt text](https://github.com/arunreddy2471/ACC_WebSearchEngine/blob/main/Screenshot%202022-07-30%20at%2011.41.46%20PM.png)
 
